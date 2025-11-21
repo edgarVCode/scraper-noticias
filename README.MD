@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## 💻 Uso
 Navega a la carpeta /src y ejecuta el siguiente comando
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## 🛠️ Tecnologías
